@@ -836,6 +836,10 @@ body .wrapper .top-btn {
     width: 100%;
     height: auto;
   }
+  body .wrapper .work::after {
+    content: "";
+    width: 296px;
+  }
   body .wrapper .news {
     width: auto;
     margin-bottom: 500px;
